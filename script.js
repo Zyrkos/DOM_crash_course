@@ -1,7 +1,4 @@
-//traversing the DOM//
 
-const itemList = document.querySelector('#items');
-itemList.parentNode.style.backgroundColor = '#f4f4f4';
 
 //EVENTS
 
@@ -20,8 +17,8 @@ const box = document.getElementById('box');
 
 
 //GETING input from KEYDOWN event
-const itemInput = document.querySelector('input[type="text"]' );
-const form = document.querySelector('form');
+/* const itemInput = document.querySelector('input[type="text"]' );
+const form = document.querySelector('form'); */
 
 /* itemInput.addEventListener('keydown', runEvent);
 itemInput.addEventListener('keyup', runEvent);
